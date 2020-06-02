@@ -8,7 +8,6 @@ import pandas as pd
 from datetime import datetime
 from binance.client import Client
 
-
 def date_to_milliseconds(date_str):
     """Convert UTC date to milliseconds
     """
