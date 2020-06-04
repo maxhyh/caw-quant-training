@@ -9,23 +9,9 @@ class binance_data():
     def __init__(self):
         self.client = Client("","")
 
-    def get_order_book(self, symbol):
+    def get_order_book(self):
 
-        depth = self.client.get_order_book(symbol = symbol)
-
-        ID = depth['lastUpdateId']
-
-        df_depth_asks = depth['asks']
-        ask_price = df_depth_asks[0]
-        ask__qty = df_depth_asks[1]
-
-        df_depth_bids = depth['bids']
-        bid_price = df_depth_bids[0]
-        bid_qty = df_depth_bids[1]
-
-        order_book = pd.DataFrame({'ID':ID, 'Ask Price': ask_price, 'Ask Quantity': ask__qty,
-                    'Bid Price': bid_price, 'Bid Quantity': bid_qty})
-        return order_book
+        return self.client.get_orderbook_tickers()
 
 
     def get_historical_klines(self, symbol, interval, start_str, end_str):
@@ -46,8 +32,10 @@ DATA_DIR = '/Users/yihuihuang/Desktop/Crypto/caw-quant-training/section1/task2/'
 
 bd = binance_data()
 
-data_MD = bd.get_order_book("ETHBTC")
-data_MD.to_csv(os.path.join(DATA_DIR, "market_depth.csv"), index=False)
+
+data_MD = bd.get_order_book()
+df1 = pd.DataFrame(data_MD)
+df1.to_csv(os.path.join(DATA_DIR, "market_depth.csv"), index=False)
 
 data_his = bd.get_historical_klines("ETHBTC", Client.KLINE_INTERVAL_1WEEK, "1 Apr, 2019", "1 Apr, 2020")
 df2 = pd.DataFrame(data_his, columns=['open_time', 'open', 'high', 'low', 'close', 'volume', 'close_time',\
