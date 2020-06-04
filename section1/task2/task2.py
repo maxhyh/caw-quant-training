@@ -9,13 +9,19 @@ class binance_data():
         self.client = Client("","")
 
     def get_order_book(self, symbol):
-        return self.client.get_order_book(symbol = symbol)
+        if isinstance(symbol,str):
+            return self.client.get_order_book(symbol = symbol)
+        else:
+            raise Exception("Symbol should be an instance of string.")
 
     def get_historical_klines(self, symbol, interval, start_str, end_str):
         return self.client.get_historical_klines(symbol, interval, start_str, end_str)
 
     def get_transactions(self, symbol):
-        return self.client.get_recent_trades(symbol=symbol)
+        if isinstance(symbol,str):
+            return self.client.get_recent_trades(symbol=symbol)
+        else:
+            raise Exception("Symbol should be an instance of string.")
 
 DATA_DIR = '/Users/yihuihuang/Desktop/Crypto/caw-quant-training/section1/task2/'
 
