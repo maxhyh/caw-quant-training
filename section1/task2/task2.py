@@ -53,8 +53,7 @@ def unix2date(timestamp):
 
 DATA_DIR = '/Users/yihuihuang/Desktop/Crypto/caw-quant-training/section1/task2/'
 
-bd = binance_data("fF1krtgLynipQf8yOZ1h1iGRGZM2K6ukAelCCsu05AE2gZl4fcQEVBosKXINw3IT", 
-    "NsEoj50t36tTt8sFYcnihGJvmjf648agQHZIgknerDcHdDYmndFlAnihMBbflulj")
+bd = binance_data("", "")
 
 
 data_MD = bd.get_order_book(symbol="ETHBTC")
