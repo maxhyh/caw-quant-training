@@ -1,0 +1,2442 @@
+[
+    {
+        "_id": "5ede489fef48ea001afe215e",
+        "hotness": 73690.98743706389,
+        "activityHotness": 4.621511137961694,
+        "primaryCategory": "General",
+        "words": 787,
+        "similarArticles": [
+            {
+                "_id": "5ede1d117026f9001af98303",
+                "title": "Sounding The Death Knell for Cash Money: How Far Is It?",
+                "publishedAt": "2020-06-08T04:27:53.000Z",
+                "sourceDomain": "hackernoon.com",
+                "url": "https://cryptocontrol.io/r/api/article/5ede1d117026f9001af98303?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede1d117026f9001af98303-1591614749359.GfIX8rvLSbejdPORu1AT"
+            },
+            {
+                "_id": "5edd6a04d53ce5001965aa9a",
+                "title": "STASIS Stablecoin Digest 07.06.2020",
+                "publishedAt": "2020-06-07T20:03:18.000Z",
+                "sourceDomain": "ihodl.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edd6a04d53ce5001965aa9a?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edd6a04d53ce5001965aa9a-1591568900597.jpg"
+            },
+            {
+                "_id": "5edd5cb8d53ce50019654045",
+                "title": "Crypto Criminals Have Already Stolen $1.4B in 2020, Says CipherTrace - CoinDesk",
+                "publishedAt": "2020-06-02T13:33:52.000Z",
+                "sourceDomain": "coindesk.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edd5cb8d53ce50019654045?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edd5cb8d53ce50019654045-1591565496683.jpg"
+            },
+            {
+                "_id": "5edced69687b57001929a52b",
+                "title": "Safety Check: If Crypto Custodian Fails, Clients May Not Get a Full Payout",
+                "publishedAt": "2020-06-07T12:17:00.000Z",
+                "sourceDomain": "cointelegraph.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edced69687b57001929a52b?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edced69687b57001929a52b-1591537006073.jpg"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45dbe",
+                "name": "Tether",
+                "slug": "tether",
+                "tradingSymbol": "USDT"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            },
+            {
+                "_id": "5ba191870c38a70019337fd3",
+                "name": "Castle",
+                "slug": "castle",
+                "tradingSymbol": "CSTL"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5b5bb2068cb221000f92d832",
+                "name": "ARBITRAGE",
+                "slug": "arbitrage",
+                "tradingSymbol": "arb"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            }
+        ],
+        "description": "Tether CTO Paolo Ardoino says over-the-counter trading desks and crypto exchanges want dollars on hand, and this is driving up demand.\n",
+        "publishedAt": "2020-06-08T14:11:44.000Z",
+        "title": "Why Tether has printed $5 billion USDT this year",
+        "url": "https://cryptocontrol.io/r/api/article/5ede489fef48ea001afe215e?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5badd2e80c38a70019e35b97",
+            "name": "Decrypt Media",
+            "url": "https://decryptmedia.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5badd2e80c38a70019e35b97.jpg"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede489fef48ea001afe215e-1591625887098.jpg",
+        "sourceDomain": "decrypt.co",
+        "originalImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/06/shutterstock_13894898511-gID_4.jpg"
+    },
+    {
+        "_id": "5ede4c65ef48ea001afe48c3",
+        "hotness": 73690.57367531271,
+        "activityHotness": 4.604879016416943,
+        "primaryCategory": "General",
+        "words": 532,
+        "similarArticles": [
+            {
+                "_id": "5ede37b8ef48ea001afda587",
+                "title": "Pentagon War Game Envisioned a Generation-Z Rebellion Funded by Bitcoin - CoinDesk",
+                "publishedAt": "2020-06-08T13:00:41.000Z",
+                "sourceDomain": "coindesk.com",
+                "url": "https://cryptocontrol.io/r/api/article/5ede37b8ef48ea001afda587?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede37b8ef48ea001afda587-1591621567291.jpg"
+            },
+            {
+                "_id": "5ede228f847a14001935755d",
+                "title": "Trending Bitcoin News and Market Sentiment June 8th, 2020: Pentagon War Games Paid Bitcoin to Rage Against the Machine, No FOMO but $150,000 BTC and $9,000 ETH?",
+                "publishedAt": "2020-06-08T11:11:30.000Z",
+                "sourceDomain": "bitcoinnews.com",
+                "url": "https://cryptocontrol.io/r/api/article/5ede228f847a14001935755d?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede228f847a14001935755d-1591616143967.jpg"
+            },
+            {
+                "_id": "5edddec07026f9001af75fb8",
+                "title": "US Pentagon Created a War Game to Fight the Establishment with BTC",
+                "publishedAt": "2020-06-08T06:06:00.000Z",
+                "sourceDomain": "cointelegraph.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edddec07026f9001af75fb8?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edddec07026f9001af75fb8-1591598785078.jpg"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5b590f068cb221000fcf9eb5",
+                "name": "View",
+                "slug": "view",
+                "tradingSymbol": "VIEW"
+            }
+        ],
+        "description": "Cryptocurrencies have been on the path towards government regulation for years. However, while Washington and Capitol Hill remain unconvinced, it would appear that the Pentagon [...]\n",
+        "publishedAt": "2020-06-08T11:48:46.000Z",
+        "title": "U.S Pentagon Designed Rebellion-Themed Bitcoin Game in 2018",
+        "url": "https://cryptocontrol.io/r/api/article/5ede4c65ef48ea001afe48c3?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5ccabcb670d7470010854415",
+            "name": "InsideBitcoins",
+            "url": "https://insidebitcoins.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5ccabcb670d7470010854415.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede4c65ef48ea001afe48c3-1591626853566.jpg",
+        "sourceDomain": "insidebitcoins.com",
+        "originalImageUrl": "https://insidebitcoins.com/wp-content/uploads/2020/06/470701-O-ZZ999-221.jpg"
+    },
+    {
+        "_id": "5eddeade7026f9001af7c95c",
+        "hotness": 73689.85789404837,
+        "activityHotness": 4.666782937257565,
+        "primaryCategory": "Blockchain",
+        "words": 692,
+        "similarArticles": [
+            {
+                "_id": "5edce685687b570019296515",
+                "title": "Claims of Selling Bitcoin Users\u2019 Data \u201cAre Overblown,\u201d Says Coinbase",
+                "publishedAt": "2020-06-07T12:21:23.000Z",
+                "sourceDomain": "cryptobriefing.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edce685687b570019296515?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edce685687b570019296515-1591535238710.jpg"
+            },
+            {
+                "_id": "5edc7c17d56018001ad0fc37",
+                "title": "Like Ethereum, Tezos Plans to Introduce Domain Names",
+                "publishedAt": "2020-06-06T07:07:48.000Z",
+                "sourceDomain": "currencytimes.co.in",
+                "url": "https://cryptocontrol.io/r/api/article/5edc7c17d56018001ad0fc37?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edc7c17d56018001ad0fc37-1591507991292.jpg"
+            },
+            {
+                "_id": "5edc802ed6b5ed00197b0639",
+                "title": "Like Ethereum, Tezos Plans to Introduce Domain Names",
+                "publishedAt": "2020-06-06T04:50:33.000Z",
+                "sourceDomain": "cryptobriefing.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edc802ed6b5ed00197b0639?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edc802ed6b5ed00197b0639-1591509038379.jpg"
+            },
+            {
+                "_id": "5eda6909cc850700197f3ba5",
+                "title": "Europe\u2019s Top Law Enforcement Agency Investigating Bitcoin Mixer Wasabi",
+                "publishedAt": "2020-06-05T14:38:16.000Z",
+                "sourceDomain": "cryptobriefing.com",
+                "url": "https://cryptocontrol.io/r/api/article/5eda6909cc850700197f3ba5?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5eda6909cc850700197f3ba5-1591372041880.jpg"
+            },
+            {
+                "_id": "5eda2829a2e1880019658c8c",
+                "title": "Ethereum\u2019s DeFi Back at $1 Billion, Maker Leads the Charge",
+                "publishedAt": "2020-06-05T10:45:11.000Z",
+                "sourceDomain": "cryptobriefing.com",
+                "url": "https://cryptocontrol.io/r/api/article/5eda2829a2e1880019658c8c?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5eda2829a2e1880019658c8c-1591355433875.jpg"
+            },
+            {
+                "_id": "5edc8412687b570019268283",
+                "title": "DiversiFi, Ledger Partner to Offer Alternative Payment Methods",
+                "publishedAt": "2020-06-06T22:17:27.000Z",
+                "sourceDomain": "insidebitcoins.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edc8412687b570019268283?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edc8412687b570019268283-1591510036505.jpg"
+            },
+            {
+                "_id": "5eda531da2e188001967114f",
+                "title": "Bitcoin Wallet Ledger Joins DeFi Movement, Integrating DEX Platform DeversiFi",
+                "publishedAt": "2020-06-05T13:03:57.000Z",
+                "sourceDomain": "cryptobriefing.com",
+                "url": "https://cryptocontrol.io/r/api/article/5eda531da2e188001967114f?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5eda531da2e188001967114f-1591366429082.jpg"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "5b1b1885bad05a000f195d03",
+                "name": "Engine",
+                "slug": "engine",
+                "tradingSymbol": "EGCC"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5afcc60ced3b0e000f40d55c",
+                "name": "KEY",
+                "slug": "key",
+                "tradingSymbol": "key"
+            }
+        ],
+        "description": "Is the end of Coinbase\u2019s reign near? Key Takeaways Coinbase employee says the company isn\u2019t selling user data to law enforcement agencies All the data in Coinbase\u2019s analytics tool is public information that can be recreated by anyone else Frequent outages and mounting privacy concerns are forcing\u2026",
+        "publishedAt": "2020-06-08T07:08:48.000Z",
+        "title": "Claims of Selling Bitcoin Users\u2019 Data \u201cAre Overblown,\u201d Says Coinbase",
+        "url": "https://cryptocontrol.io/r/api/article/5eddeade7026f9001af7c95c?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5b5626158cb221000fe2f223",
+            "name": "Currency Times",
+            "url": "http://currencytimes.co.in/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b5626158cb221000fe2f223.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5eddeade7026f9001af7c95c-1591601886166.jpg",
+        "sourceDomain": "currencytimes.co.in",
+        "originalImageUrl": "https://i2.wp.com/www.currencytimes.co.in/wp-content/uploads/2020/06/Coinbase-gift-card-hookup-with-WeGift-is-an-exercise-in-recentralization.jpg?fit=1200%2C630&ssl=1"
+    },
+    {
+        "_id": "5ede4c46ef48ea001afe48a1",
+        "hotness": 73687.92343684485,
+        "activityHotness": 1.6076961041136129,
+        "primaryCategory": "ICO",
+        "words": 400,
+        "similarArticles": [
+            {
+                "_id": "5edda97f8c844d0019ab269e",
+                "title": "After predicting Bitcoin\u2019s 50% crash in March, institutions are turning bearish again",
+                "publishedAt": "2020-06-08T02:00:45.000Z",
+                "sourceDomain": "cryptoslate.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edda97f8c844d0019ab269e?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edda97f8c844d0019ab269e-1591585151984.jpg"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            }
+        ],
+        "description": "After seeing new lows of $3,700 in March, Bitcoin has given handsome returns. However, institutional investors have been getting bearish on the premier cryptocurrency yet [...]\n",
+        "publishedAt": "2020-06-08T13:53:40.000Z",
+        "title": "Institutional investors Are Bearish on Bitcoin In Short to Medium Term",
+        "url": "https://cryptocontrol.io/r/api/article/5ede4c46ef48ea001afe48a1?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5ccabcb670d7470010854415",
+            "name": "InsideBitcoins",
+            "url": "https://insidebitcoins.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5ccabcb670d7470010854415.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede4c46ef48ea001afe48a1-1591626822359.jpg",
+        "sourceDomain": "insidebitcoins.com",
+        "originalImageUrl": "https://insidebitcoins.com/wp-content/uploads/2020/06/Bitcoin2.jpg"
+    },
+    {
+        "_id": "5ede4238ef48ea001afdf15d",
+        "hotness": 73687.92178503683,
+        "activityHotness": 1.613976194237516,
+        "primaryCategory": "General",
+        "words": 395,
+        "similarArticles": [
+            {
+                "_id": "5edc710fd56018001ad0b083",
+                "title": "Analyst explains why an exponential post-halving Bitcoin rally is yet to be seen",
+                "publishedAt": "2020-06-06T20:24:53.000Z",
+                "sourceDomain": "zycrypto.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edc710fd56018001ad0b083?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edc710fd56018001ad0b083-1591505167181.jpg"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            }
+        ],
+        "description": "Following the bitcoin halving, many analysts were disappointed in the outcome of the highly anticipated event.\u00a0\nWhereas bitcoin has fluctuated from the $10,000 mark over the past few weeks, its price yet to see some real action.\nFollowing the bitcoin halving last month, many analysts and community\u2026",
+        "publishedAt": "2020-06-08T13:50:48.671Z",
+        "title": "How Bitcoin Has Boosted These Industries Over The Years",
+        "url": "https://cryptocontrol.io/r/api/article/5ede4238ef48ea001afdf15d?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5b04f195311c75000f476271",
+            "name": "Crypto Daily",
+            "url": "https://cryptodaily.co.uk",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b04f195311c75000f476271.jpg"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede4238ef48ea001afdf15d-1591624253972.jpg",
+        "sourceDomain": "cryptodaily.co.uk",
+        "originalImageUrl": "https://cryptodailycdn.ams3.digitaloceanspaces.com/uploads/featured-images/Bitcoin/bitcoins-keyb-blur.jpg"
+    },
+    {
+        "_id": "5edd4727d53ce50019648da5",
+        "hotness": 73687.88955648965,
+        "activityHotness": 4.720297230399235,
+        "primaryCategory": "Analysis",
+        "words": 449,
+        "similarArticles": [
+            {
+                "_id": "5edc6f87d56018001ad099e0",
+                "title": "XRP Is Primed to Break Dozens of Percent Lower as Textbook Bearish Pattern Forms",
+                "publishedAt": "2020-06-06T04:00:24.000Z",
+                "sourceDomain": "bitcoinist.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edc6f87d56018001ad099e0?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edc6f87d56018001ad099e0-1591504775274.jpg"
+            },
+            {
+                "_id": "5edc6e9ed56018001ad09658",
+                "title": "XRP is Prepping for a Fresh Breakdown Despite Climbing Social Volume",
+                "publishedAt": "2020-06-06T01:00:58.000Z",
+                "sourceDomain": "newsbtc.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edc6e9ed56018001ad09658?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edc6e9ed56018001ad09658-1591504543689.jpg"
+            },
+            {
+                "_id": "5edc6f7cd56018001ad099d9",
+                "title": "These Three Factors Show Why Bitcoin is Poised to Plummet Towards $8,000",
+                "publishedAt": "2020-06-06T19:01:19.000Z",
+                "sourceDomain": "bitcoinist.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edc6f7cd56018001ad099d9?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edc6f7cd56018001ad099d9-1591504764479.jpg"
+            },
+            {
+                "_id": "5edd31b3d53ce500196410bb",
+                "title": "Critical Bitcoin Weekly Close Approaches as Analysts Foresee Turbulence",
+                "publishedAt": "2020-06-07T16:00:23.000Z",
+                "sourceDomain": "newsbtc.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edd31b3d53ce500196410bb?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edd31b3d53ce500196410bb-1591554484872.jpg"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5afcc60ced3b0e000f40d55c",
+                "name": "KEY",
+                "slug": "key",
+                "tradingSymbol": "key"
+            }
+        ],
+        "description": "Bitcoin is flashing some signs of weakness as it navigates towards the lower boundary of a trading range that has been firmly established over the past couple of weeks The crypto\u2019s current weakness comes after a failed attempt by buyers to propel it towards $10,000 This decline has also led BTC down\u2026",
+        "publishedAt": "2020-06-07T19:00:56.000Z",
+        "title": "Bitcoin at Grave Risk of Cratering to $7,400 as it Taps Multi-Month Trendline",
+        "url": "https://cryptocontrol.io/r/api/article/5edd4727d53ce50019648da5?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "59d8e471ef8bf95cc2c16858",
+            "name": "Bitcoinist",
+            "url": "https://bitcoinist.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d8e471ef8bf95cc2c16858.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edd4727d53ce50019648da5-1591559982698.jpg",
+        "sourceDomain": "bitcoinist.com",
+        "originalImageUrl": "https://bitcoinist.com/wp-content/uploads/2020/06/shutterstock_534094786.jpg"
+    },
+    {
+        "_id": "5ede4c4def48ea001afe48b3",
+        "hotness": 73687.82892916613,
+        "activityHotness": 1.6095310179804325,
+        "primaryCategory": "Exchanges",
+        "words": 398,
+        "similarArticles": [
+            {
+                "_id": "5edd72fe1c6dfa0018719749",
+                "title": "Investors Turn Bullish as Bitcoin Exchange Reserves Drop to 1-Year Low",
+                "publishedAt": "2020-06-07T22:05:00.000Z",
+                "sourceDomain": "cointelegraph.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edd72fe1c6dfa0018719749?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edd72fe1c6dfa0018719749-1591571198979.jpg"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            }
+        ],
+        "description": "Glassnode, a crypto data provider, has recently revealed that the Bitcoin (BTC) reserves on crypto exchanges have recently fallen to a 12-month low. This runs [...]\n",
+        "publishedAt": "2020-06-08T13:18:59.000Z",
+        "title": "Bullish Sentiment Rises as BTC Exchange Reserves Go to 1-Year Low",
+        "url": "https://cryptocontrol.io/r/api/article/5ede4c4def48ea001afe48b3?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5ccabcb670d7470010854415",
+            "name": "InsideBitcoins",
+            "url": "https://insidebitcoins.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5ccabcb670d7470010854415.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede4c4def48ea001afe48b3-1591626829866.jpg",
+        "sourceDomain": "insidebitcoins.com",
+        "originalImageUrl": "https://insidebitcoins.com/wp-content/uploads/2020/05/bitcoin-3024279_1920.jpg"
+    },
+    {
+        "_id": "5edd6783d53ce50019659a39",
+        "hotness": 73687.59183995384,
+        "activityHotness": 4.664710324205854,
+        "primaryCategory": "General",
+        "words": 1472,
+        "similarArticles": [
+            {
+                "_id": "5edcd794687b57001928efb2",
+                "title": "Who\u2019s Afraid of Ethereum? The Top 12 Smart Contract Platforms",
+                "publishedAt": "2020-06-07T12:02:39.000Z",
+                "sourceDomain": "cryptobriefing.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edcd794687b57001928efb2?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edcd794687b57001928efb2-1591531421576.png"
+            },
+            {
+                "_id": "5edc8589687b5700192682b2",
+                "title": "Transcript \u2013 NGD\u2019s John Wang and Denis Suslov participate in AMA on Atomic Wallet Telegram channel",
+                "publishedAt": "2020-06-06T19:01:08.000Z",
+                "sourceDomain": "neonewstoday.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edc8589687b5700192682b2?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edc8589687b5700192682b2-1591510409482.png"
+            },
+            {
+                "_id": "5eda4495a2e1880019668e06",
+                "title": "We Are Near a \u201cPlateau\u201d for Ethereum DeFi Due to Latency Issues: Top Investor",
+                "publishedAt": "2020-06-05T12:00:51.000Z",
+                "sourceDomain": "bitcoinist.com",
+                "url": "https://cryptocontrol.io/r/api/article/5eda4495a2e1880019668e06?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5eda4495a2e1880019668e06-1591362709716.jpg"
+            },
+            {
+                "_id": "5eda1fd33d39cd001805bb2e",
+                "title": "Why Collaboration Is Vital in the Cryptocurrency Space",
+                "publishedAt": "2020-06-05T10:20:59.000Z",
+                "sourceDomain": "newsbtc.com",
+                "url": "https://cryptocontrol.io/r/api/article/5eda1fd33d39cd001805bb2e?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5eda1fd33d39cd001805bb2e-1591353299907.jpg"
+            },
+            {
+                "_id": "5eda0422694f9f001914cafb",
+                "title": "After COVID-19, 2020 Could Be the Biggest Year Yet for Crypto Scams",
+                "publishedAt": "2020-06-05T07:49:16.000Z",
+                "sourceDomain": "financemagnates.com",
+                "url": "https://cryptocontrol.io/r/api/article/5eda0422694f9f001914cafb?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5eda0422694f9f001914cafb-1591346210507.jpg"
+            },
+            {
+                "_id": "5ed7d6d1e68bda001937d08e",
+                "title": "Ethereum Led the Way, Now Other Projects Are Decentralizing Finance",
+                "publishedAt": "2020-06-03T11:02:18.000Z",
+                "sourceDomain": "cryptobriefing.com",
+                "url": "https://cryptocontrol.io/r/api/article/5ed7d6d1e68bda001937d08e?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ed7d6d1e68bda001937d08e-1591203549267.png"
+            },
+            {
+                "_id": "5ed7c47d1af3e20019780170",
+                "title": "Key DeFi Ecosystem Problems, Explained",
+                "publishedAt": "2020-06-03T13:30:00.000Z",
+                "sourceDomain": "cointelegraph.com",
+                "url": "https://cryptocontrol.io/r/api/article/5ed7c47d1af3e20019780170?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ed7c47d1af3e20019780170-1591198846463.jpg"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45db4",
+                "name": "IOTA",
+                "slug": "iota",
+                "tradingSymbol": "MIOTA"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45e03",
+                "name": "Wings",
+                "slug": "wings",
+                "tradingSymbol": "WINGS"
+            },
+            {
+                "_id": "5a7b930e02ac032bc99781c3",
+                "name": "Verify",
+                "slug": "verify",
+                "tradingSymbol": "CRED"
+            },
+            {
+                "_id": "5d12b582f9eb99001abaf90b",
+                "name": "V Systems",
+                "slug": "v-systems",
+                "tradingSymbol": "VSYS"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45e6e",
+                "name": "Shift",
+                "slug": "shift",
+                "tradingSymbol": "SHIFT"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "The roaring popularity of blockchain technology owes a great deal to the brilliance of smart contracts. Conceptualized by computer scientist Nick Szabo in 1994, a smart contract can be considered to be a set of instructions (usually in the form of a computer program) which automatically execute when\u2026",
+        "publishedAt": "2020-06-07T17:33:46.000Z",
+        "title": "A Brief Guide to Advanced Smart Contracts",
+        "url": "https://cryptocontrol.io/r/api/article/5edd6783d53ce50019659a39?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5b4b575cc831fd000f6b2af3",
+            "name": "Hacker Noon",
+            "url": "https://hackernoon.com/feed",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b4b575cc831fd000f6b2af3.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edd6783d53ce50019659a39-1591568259179.png",
+        "sourceDomain": "hackernoon.com",
+        "originalImageUrl": "https://hackernoon.com/drafts/hu1lj3zyp.png"
+    },
+    {
+        "_id": "5ede2666847a140019359c6b",
+        "hotness": 73687.41408000451,
+        "activityHotness": 1.6157003748809664,
+        "primaryCategory": "General",
+        "words": 398,
+        "similarArticles": [
+            {
+                "_id": "5ede1ca27026f9001af982e4",
+                "title": "Calvin Ayre makes sizeable investment in TonicPow \u2013 a frictionless advertising solution using Bitcoin SV",
+                "publishedAt": "2020-06-08T10:00:27.000Z",
+                "sourceDomain": "coingeek.com",
+                "url": "https://cryptocontrol.io/r/api/article/5ede1ca27026f9001af982e4?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede1ca27026f9001af982e4-1591614626843.jpg"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5bfc89093c4bad0016670af9",
+                "name": "Bitcoin SV",
+                "slug": "bitcoin-sv",
+                "tradingSymbol": "BSV"
+            }
+        ],
+        "description": "The project was launched last year by founders Attila Aros, Luke Rohenaz and Austin Rappaport",
+        "publishedAt": "2020-06-08T10:47:25.000Z",
+        "title": "TonicPow: marketing on Bitcoin SV",
+        "url": "https://cryptocontrol.io/r/api/article/5ede2666847a140019359c6b?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5cfa747b28d54f001058f77e",
+            "name": "The Cryptonomist ",
+            "url": "https://cryptonomist.ch/en/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5cfa747b28d54f001058f77e.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede2666847a140019359c6b-1591617126058.jpg",
+        "sourceDomain": "en.cryptonomist.ch",
+        "originalImageUrl": "https://en.cryptonomist.ch/wp-content/uploads/2020/06/marketing-BSV.jpg"
+    },
+    {
+        "_id": "5ede05407026f9001af8b153",
+        "hotness": 73687.1992669885,
+        "activityHotness": 1.630748469974796,
+        "primaryCategory": "Analysis",
+        "words": 299,
+        "similarArticles": [
+            {
+                "_id": "5edc9a30687b570019271ec0",
+                "title": "Bitcoin Price Prediction: Bitcoin (BTC) Upside Range Holds, Consolidates Sideways",
+                "publishedAt": "2020-06-07T06:44:39.000Z",
+                "sourceDomain": "insidebitcoins.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edc9a30687b570019271ec0?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edc9a30687b570019271ec0-1591515696495.png"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "Over the past few days, Bitcoin has been in consolidation after the recent breakdown. Presently, the market is trending toward the upside range to break the $10,000 overhead resistance. Analysts believe that Bitcoin will break upward from its present consolidation. \u00a0 Following the last breakdown on\u2026",
+        "publishedAt": "2020-06-08T09:24:40.000Z",
+        "title": "Bitcoin (BTC) Upside Range Holds; Can Bulls Break the $10,000 Jinx?",
+        "url": "https://cryptocontrol.io/r/api/article/5ede05407026f9001af8b153?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5c2cbd2223b00e001013dda7",
+            "name": "CoinfoMania",
+            "url": "https://coinfomania.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5c2cbd2223b00e001013dda7.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede05407026f9001af8b153-1591608640182.jpg",
+        "sourceDomain": "coinfomania.com",
+        "originalImageUrl": "https://coinfomania.com/wp-content/uploads/Bitcoin-BTC-1.jpg"
+    },
+    {
+        "_id": "5edd734c1c6dfa001871975c",
+        "hotness": 73687.00979558633,
+        "activityHotness": 3.174193734472938,
+        "primaryCategory": "General",
+        "words": 536,
+        "similarArticles": [
+            {
+                "_id": "5ed8db4719476800193cfd53",
+                "title": "These Two Key Factors Show \u201cFireworks\u201d in the Bitcoin Market Are Imminent",
+                "publishedAt": "2020-06-04T10:00:32.000Z",
+                "sourceDomain": "newsbtc.com",
+                "url": "https://cryptocontrol.io/r/api/article/5ed8db4719476800193cfd53?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ed8db4719476800193cfd53-1591270215663.jpg"
+            },
+            {
+                "_id": "5edc6f71d56018001ad099d6",
+                "title": "After 10% Difficulty Drop, Bitcoin Miners Are Back in the Game",
+                "publishedAt": "2020-06-07T01:00:13.000Z",
+                "sourceDomain": "bitcoinist.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edc6f71d56018001ad099d6?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edc6f71d56018001ad099d6-1591504753471.jpg"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "5e3844a816c3760019f74b72",
+                "name": "Defi",
+                "slug": "defi",
+                "tradingSymbol": "DEFI"
+            },
+            {
+                "_id": "5afcc60ced3b0e000f40d55c",
+                "name": "KEY",
+                "slug": "key",
+                "tradingSymbol": "key"
+            }
+        ],
+        "description": "After fears of \u201ccapitulation\u201d passed over the market, Bitcoin miners are back in the game, activating new hardware once again after May\u2019s block reward halving. There\u2019s been such a high amount of activity in the mining space that according to Bitcoin data analyst Digitalik.net, blocks are being mined\u2026",
+        "publishedAt": "2020-06-07T23:00:49.000Z",
+        "title": "The Ongoing Miner \u201cFeeding Frenzy\u201d Is Bullish for Bitcoin in the Long Run",
+        "url": "https://cryptocontrol.io/r/api/article/5edd734c1c6dfa001871975c?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "59d71bd7ef8bf95cc2aaf579",
+            "name": "NewsBTC",
+            "url": "http://www.newsbtc.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d71bd7ef8bf95cc2aaf579.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edd734c1c6dfa001871975c-1591571276677.jpg",
+        "sourceDomain": "newsbtc.com",
+        "originalImageUrl": "https://www.newsbtc.com/wp-content/uploads/2020/06/shutterstock_455612128-860x573.jpg"
+    },
+    {
+        "_id": "5eddf50e7026f9001af827a2",
+        "hotness": 73686.95723502338,
+        "activityHotness": 1.62390169004705,
+        "primaryCategory": "Exchanges",
+        "words": 473,
+        "similarArticles": [
+            {
+                "_id": "5edd2dc6d53ce5001963f74d",
+                "title": "Coinbase Explains The Reason For The Outage When Bitcoin Surpassed $10,000 Last Week",
+                "publishedAt": "2020-06-07T17:57:18.000Z",
+                "sourceDomain": "cryptopotato.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edd2dc6d53ce5001963f74d?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edd2dc6d53ce5001963f74d-1591553479258.jpg"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "5e3844a916c3760019f74d40",
+                "name": "Request",
+                "slug": "request",
+                "tradingSymbol": "REQ"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "According to Coinbase, the exchange\u2019s autoscaling couldn\u2019t keep up with a 5x traffic spike experienced during a Biyvoin price surge to $10,000.\nThe largest cryptocurrency exchange in the United States said its autoscaling was unable to keep up with a huge traffic spike that left many users unable to\u2026",
+        "publishedAt": "2020-06-08T08:00:00.000Z",
+        "title": "Coinbase Exchange Inaccessible Due to 5x Traffic Spike During Bitcoin Surge",
+        "url": "https://cryptocontrol.io/r/api/article/5eddf50e7026f9001af827a2?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "59d70be3ef8bf95cc2aa2b4f",
+            "name": "CoinTelegraph",
+            "url": "https://cointelegraph.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d70be3ef8bf95cc2aa2b4f.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5eddf50e7026f9001af827a2-1591604496759.jpg",
+        "sourceDomain": "cointelegraph.com",
+        "originalImageUrl": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zOWMwYTYxOWU4YjQ2NmU0YWU4ZmE1ZjBlYjdlMjEzZS5qcGc=.jpg"
+    },
+    {
+        "_id": "5edd87e68c844d0019a9fcc9",
+        "hotness": 73686.88701411999,
+        "activityHotness": 3.1727548607277276,
+        "primaryCategory": "General",
+        "words": 1230,
+        "similarArticles": [
+            {
+                "_id": "5edc81f3687b57001926694f",
+                "title": "Bitcoin \u2013The Growing Digital Currency",
+                "publishedAt": "2020-06-06T08:27:03.000Z",
+                "sourceDomain": "coinpedia.org",
+                "url": "https://cryptocontrol.io/r/api/article/5edc81f3687b57001926694f?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edc81f3687b57001926694f-1591509494488.jpg"
+            },
+            {
+                "_id": "5eda6c11cc850700197f6298",
+                "title": "No creer\u00e1s qu\u00e9 hac\u00eda Satoshi Nakamoto para que nadie supiera d\u00f3nde estaba",
+                "publishedAt": "2020-06-05T15:47:23.000Z",
+                "sourceDomain": "news.bitcoin.com",
+                "url": "https://cryptocontrol.io/r/api/article/5eda6c11cc850700197f6298?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5eda6c11cc850700197f6298-1591372817709.jpg"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5c05c3873c4bad0016c2504d",
+                "name": "Online",
+                "slug": "online",
+                "tradingSymbol": "oio"
+            },
+            {
+                "_id": "5e3844a916c3760019f74e0e",
+                "name": "ROAD",
+                "slug": "road",
+                "tradingSymbol": "ROAD"
+            },
+            {
+                "_id": "5afcc60aed3b0e000f40cf46",
+                "name": "Aston",
+                "slug": "aston",
+                "tradingSymbol": "ATX"
+            },
+            {
+                "_id": "5e3844a816c3760019f74bbc",
+                "name": "Medium",
+                "slug": "medium",
+                "tradingSymbol": "MDM"
+            }
+        ],
+        "description": "Satoshi Nakamoto is inventor of the Bitcoin protocol, publishing a paper outlining it via the Cryptography Mailing List on November, 1 2008. He then released the first version of the Bitcoin software client in 2009 and participated with others on the project via mailing lists until he finally began\u2026",
+        "publishedAt": "2020-06-07T22:17:08.000Z",
+        "title": "Satoshi Nakamoto - CoinDesk",
+        "url": "https://cryptocontrol.io/r/api/article/5edd87e68c844d0019a9fcc9?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "59ce11393a44cf289a9a71f5",
+            "name": "CoinDesk",
+            "url": "http://coindesk.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59ce11393a44cf289a9a71f5.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edd87e68c844d0019a9fcc9-1591576550284.jpg",
+        "sourceDomain": "coindesk.com",
+        "originalImageUrl": "https://static.coindesk.com/wp-content/uploads/2017/04/question-mark.jpg"
+    },
+    {
+        "_id": "5eddeae47026f9001af7c96c",
+        "hotness": 73686.7883434152,
+        "activityHotness": 1.6246860077931526,
+        "primaryCategory": "General",
+        "words": 451,
+        "similarArticles": [
+            {
+                "_id": "5eda9228cc850700198090d0",
+                "title": "Bitcoin Poised to Fall? This Wyckoff Distribution Pattern Says So",
+                "publishedAt": "2020-06-05T18:00:59.000Z",
+                "sourceDomain": "beincrypto.com",
+                "url": "https://cryptocontrol.io/r/api/article/5eda9228cc850700198090d0?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5eda9228cc850700198090d0-1591382568286.jpg"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "5bb406850c38a70019d2bd8a",
+                "name": "Celsius",
+                "slug": "celsius",
+                "tradingSymbol": "CEL"
+            },
+            {
+                "_id": "5b7ca78b0c38a700190ebdff",
+                "name": "Own",
+                "slug": "own",
+                "tradingSymbol": "CHX"
+            },
+            {
+                "_id": "5a1aafdbda3d21115462ee14",
+                "name": "Change",
+                "slug": "change",
+                "tradingSymbol": "CAG"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "Celcius Network recently passed $1 billion in deposits indicating a strong demand amongst the cryptocurrency community for ways to earn interest on their cryptocurrency. The community largely consists of crypto enthusiasts who would rather HODL than spend their Bitcoin BUY NOW. This makes a strong\u2026",
+        "publishedAt": "2020-06-08T06:58:55.000Z",
+        "title": "Celsius Network Boasts $1 Billion in Cryptocurrency Deposits Over Past Two Years",
+        "url": "https://cryptocontrol.io/r/api/article/5eddeae47026f9001af7c96c?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5b5626158cb221000fe2f223",
+            "name": "Currency Times",
+            "url": "http://currencytimes.co.in/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b5626158cb221000fe2f223.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5eddeae47026f9001af7c96c-1591601892627.jpg",
+        "sourceDomain": "currencytimes.co.in",
+        "originalImageUrl": "https://i1.wp.com/www.currencytimes.co.in/wp-content/uploads/2020/06/bic_profit_crypto_lending_exchange.jpg.optimal.jpg?fit=965%2C500&ssl=1"
+    },
+    {
+        "_id": "5edce701687b570019296525",
+        "hotness": 73686.687658355,
+        "activityHotness": 4.654232429082536,
+        "primaryCategory": "Mining",
+        "words": 745,
+        "similarArticles": [
+            {
+                "_id": "5ed9b47a025d0c001952ef5d",
+                "title": "How Bitcoin can help end economic injustice in 2020",
+                "publishedAt": "2020-06-05T01:56:33.000Z",
+                "sourceDomain": "cryptopolitan.com",
+                "url": "https://cryptocontrol.io/r/api/article/5ed9b47a025d0c001952ef5d?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ed9b47a025d0c001952ef5d-1591325818072.jpg"
+            },
+            {
+                "_id": "5ed97b52025d0c0019511052",
+                "title": "Bitcoin Is a Way to Repair Economic Injustice: Author Isaiah Jackson - CoinDesk",
+                "publishedAt": "2020-06-04T22:30:06.000Z",
+                "sourceDomain": "coindesk.com",
+                "url": "https://cryptocontrol.io/r/api/article/5ed97b52025d0c0019511052?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ed97b52025d0c0019511052-1591311187169.jpeg"
+            },
+            {
+                "_id": "5ed9b95f025d0c001953141b",
+                "title": "\u2018Bitcoin and Black America\u2019 Author: Protest by Buying BTC",
+                "publishedAt": "2020-06-05T02:22:00.000Z",
+                "sourceDomain": "cointelegraph.com",
+                "url": "https://cryptocontrol.io/r/api/article/5ed9b95f025d0c001953141b?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ed9b95f025d0c001953141b-1591327071200.jpg"
+            },
+            {
+                "_id": "5eda4c7ba2e188001966d994",
+                "title": "Very Technical Trading Caps BTC/USD Around 9880 in Early Asia:  Sally Ho's Technical Analysis 5 June 2020 BTC",
+                "publishedAt": "2020-06-05T13:45:31.586Z",
+                "sourceDomain": "cryptodaily.co.uk",
+                "url": "https://cryptocontrol.io/r/api/article/5eda4c7ba2e188001966d994?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5eda4c7ba2e188001966d994-1591364731679.jpg"
+            },
+            {
+                "_id": "5edc6ed1d56018001ad0993c",
+                "title": "Bonus Army, Occupiers, 2020 Uprising: Bitcoin\u2019s Peaceful Protest Is Pure Civil Disobedience",
+                "publishedAt": "2020-06-06T14:05:39.000Z",
+                "sourceDomain": "news.bitcoin.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edc6ed1d56018001ad0993c?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edc6ed1d56018001ad0993c-1591504594859.jpg"
+            },
+            {
+                "_id": "5edc8015d6b5ed00197b0626",
+                "title": "Emin G\u00fcn Sirer: Blockchain won\u2019t fix this",
+                "publishedAt": "2020-06-06T10:59:07.000Z",
+                "sourceDomain": "decrypt.co",
+                "url": "https://cryptocontrol.io/r/api/article/5edc8015d6b5ed00197b0626?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edc8015d6b5ed00197b0626-1591509013681.jpg"
+            },
+            {
+                "_id": "5edc889a687b570019269be6",
+                "title": "How Bitcoin Can Help the African American Community",
+                "publishedAt": "2020-06-07T05:00:00.000Z",
+                "sourceDomain": "cointelegraph.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edc889a687b570019269be6?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edc889a687b570019269be6-1591511202182.jpg"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            }
+        ],
+        "description": "Bitcoin miner capitulation does not appear to be happening, with less than 10% network difficulty downward adjustment predicted The author of \u2018Bitcoin and Black America\u2019 says buying Bitcoin is a form of protest As Bitcoin markets continue to toy with investors and speculators, Bitcoin network\u2026",
+        "publishedAt": "2020-06-07T12:12:02.000Z",
+        "title": "Trending Bitcoin News and Market Sentiment June 7th, 2020: Bitcoin Mining Death Spiral Avoided, Buy Bitcoin to Protest Says \u2018Bitcoin and Black America\u2019 Author",
+        "url": "https://cryptocontrol.io/r/api/article/5edce701687b570019296525?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5bb5225f0c38a70019b40b84",
+            "name": "Bitcoinnews",
+            "url": "https://bitcoinnews.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5bb5225f0c38a70019b40b84.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edce701687b570019296525-1591535363673.jpg",
+        "sourceDomain": "bitcoinnews.com",
+        "originalImageUrl": "https://i1.wp.com/bitcoinnews.com/wp-content/uploads/2020/06/black-lives-matter-5251408_640.jpg?fit=640%2C427&ssl=1"
+    },
+    {
+        "_id": "5ede4f97ef48ea001afe549a",
+        "hotness": 73686.48054847281,
+        "activityHotness": 0.10295588022415446,
+        "primaryCategory": "Blockchain",
+        "words": 426,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5e3844a816c3760019f74b72",
+                "name": "Defi",
+                "slug": "defi",
+                "tradingSymbol": "DEFI"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45df4",
+                "name": "TRON",
+                "slug": "tron",
+                "tradingSymbol": "TRX"
+            }
+        ],
+        "description": "The daily network fees on the Ethereum network have reached almost $500,000 on Jun. 7 for the fourth time in the network\u2019s history. The huge uptick in-network fees now mean that Ethereum has surpassed Bitcoin, whose network fees on the same date reached only $308,000. Ethereum Miners Earned $200,000\u2026",
+        "publishedAt": "2020-06-08T14:15:56.000Z",
+        "title": "Daily Network Fees on Ethereum Reached $500,000, Leaving Bitcoin Way Behind",
+        "url": "https://cryptocontrol.io/r/api/article/5ede4f97ef48ea001afe549a?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "59d71bd7ef8bf95cc2aaf579",
+            "name": "NewsBTC",
+            "url": "http://www.newsbtc.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d71bd7ef8bf95cc2aaf579.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede4f97ef48ea001afe549a-1591627671560.jpg",
+        "sourceDomain": "newsbtc.com",
+        "originalImageUrl": "https://www.newsbtc.com/wp-content/uploads/2020/06/Ethereum-860x482.jpg"
+    },
+    {
+        "_id": "5ede4bd5ef48ea001afe488a",
+        "hotness": 73686.4729532389,
+        "activityHotness": 0.11133286853070033,
+        "primaryCategory": "Analysis",
+        "words": 640,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5a1aafdbda3d21115462ee14",
+                "name": "Change",
+                "slug": "change",
+                "tradingSymbol": "CAG"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45daf",
+                "name": "Bitcoin Cash",
+                "slug": "bitcoin-cash",
+                "tradingSymbol": "BCH"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "5a1aafdbda3d21115462ee72",
+                "name": "Tezos",
+                "slug": "tezos",
+                "tradingSymbol": "XTZ"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dbe",
+                "name": "Tether",
+                "slug": "tether",
+                "tradingSymbol": "USDT"
+            }
+        ],
+        "description": "Compared to recent drops in market sentiment score (sentscore), as well as the subsequent smaller rise, itself followed by a stronger move upwards a week ago, this week is seeing another jump towards the positive zone. Per crypto market sentiment analysis tool Omenics, the combined moving 7-day\u2026",
+        "publishedAt": "2020-06-08T14:10:11.000Z",
+        "title": "Crypto Market Sentiment Nears Positive Zone; Four Coins There Already",
+        "url": "https://cryptocontrol.io/r/api/article/5ede4bd5ef48ea001afe488a?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5c8fbb44a4410000111f614b",
+            "name": "CryptoNews",
+            "url": "https://cryptonews.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5c8fbb44a4410000111f614b.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede4bd5ef48ea001afe488a-1591626709366.jpg",
+        "sourceDomain": "cryptonews.com",
+        "originalImageUrl": "https://cimg.co/w/articles/0/5ed/e46e1e8056.jpg"
+    },
+    {
+        "_id": "5ede4f3bef48ea001afe5489",
+        "hotness": 73686.45932836643,
+        "activityHotness": 0.10099503308531682,
+        "primaryCategory": "Analysis",
+        "words": 305,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5ac2c404a8134644d0cc0a32",
+                "name": "Consensus",
+                "slug": "consensus",
+                "tradingSymbol": "SEN"
+            }
+        ],
+        "description": "BTC/USD is \u201cperfectly\u201d repeating its run-up to all-time highs in 2013, price analysis reveals, despite mixed feelings about 2020\u2019s outlook.\nBitcoin ( BTC ) is looking like it will hit $75,000 \u2014 and that could happen \u201cwithin weeks,\u201d one analyst has found.\u00a0\nUploading a fresh BTC/USD price chart to\u2026",
+        "publishedAt": "2020-06-08T14:09:00.000Z",
+        "title": "Bitcoin Price $75K \u2018Within Weeks\u2019? Recovery Mimics 2013 700% Bull Run",
+        "url": "https://cryptocontrol.io/r/api/article/5ede4f3bef48ea001afe5489?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "59d70be3ef8bf95cc2aa2b4f",
+            "name": "CoinTelegraph",
+            "url": "https://cointelegraph.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d70be3ef8bf95cc2aa2b4f.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede4f3bef48ea001afe5489-1591627579568.jpg",
+        "sourceDomain": "cointelegraph.com",
+        "originalImageUrl": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84ZDliOWNmZTRkMGNmNzM1NTAyZmUyNjc1MGJhMWFjMS5qcGc=.jpg"
+    },
+    {
+        "_id": "5eddcaab8c844d0019ac6454",
+        "hotness": 73686.40976584455,
+        "activityHotness": 1.6548121408509688,
+        "primaryCategory": "Government",
+        "words": 588,
+        "similarArticles": [
+            {
+                "_id": "5eda9b97d56018001ac17ba4",
+                "title": "Crypto Investment Giant Captures Insane Market Demand With Another Week Of Massive Bitcoin Accumulation",
+                "publishedAt": "2020-06-05T18:10:18.000Z",
+                "sourceDomain": "zycrypto.com",
+                "url": "https://cryptocontrol.io/r/api/article/5eda9b97d56018001ac17ba4?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5eda9b97d56018001ac17ba4-1591384985562.jpg"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5b4be006c831fd000fc41c2d",
+                "name": "Record",
+                "slug": "record",
+                "tradingSymbol": "rcd"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            },
+            {
+                "_id": "5afcc60ced3b0e000f40d55c",
+                "name": "KEY",
+                "slug": "key",
+                "tradingSymbol": "key"
+            }
+        ],
+        "description": "This is a guest post from Voyager, a crypto brokerage firm with a commission-free trading app. This week, Bloomberg released a very bullish report on Bitcoin, predicting the leading crypto asset price will hit $20,000 by the end of this year. Bloomberg\u2019s Mike McGlone took a deep dive into the\u2026",
+        "publishedAt": "2020-06-08T04:31:47.000Z",
+        "title": "Crypto Week in Review: Bloomberg Report Predicts Bitcoin (BTC) at $20K by Year-End",
+        "url": "https://cryptocontrol.io/r/api/article/5eddcaab8c844d0019ac6454?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5ae36dc38f09a0000f8c9719",
+            "name": "SludgeFeed",
+            "url": "https://sludgefeed.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5ae36dc38f09a0000f8c9719.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5eddcaab8c844d0019ac6454-1591593647177.jpg",
+        "sourceDomain": "sludgefeed.com",
+        "originalImageUrl": "https://sludgefeed.com/wp-content/uploads/2020/04/bitcoin-chart-at-6k.jpg"
+    },
+    {
+        "_id": "5ede4cb1ef48ea001afe48d2",
+        "hotness": 73686.40499355747,
+        "activityHotness": 0.10582689081239759,
+        "primaryCategory": "Analysis",
+        "words": 451,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5afcc60ced3b0e000f40d55c",
+                "name": "KEY",
+                "slug": "key",
+                "tradingSymbol": "key"
+            }
+        ],
+        "description": "XRP saw a tiny 0.6% price increase today as it continues to trade within the descending triangle pattern. The cryptocurrency has been trapped within the triangle for the past five weeks of trading. Against Bitcoin, XRP continues to struggle as it trades at the 2-year low level. Key Support &\u2026",
+        "publishedAt": "2020-06-08T13:47:42.000Z",
+        "title": "Ripple Price Analysis: Is XRP Transforming Into A Stablecoin? Stuck Around The $0.2 Range",
+        "url": "https://cryptocontrol.io/r/api/article/5ede4cb1ef48ea001afe48d2?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5ce406880175730010f47558",
+            "name": "Crypto Potato",
+            "url": "https://cryptopotato.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5ce406880175730010f47558.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede4cb1ef48ea001afe48d2-1591626929087.jpg",
+        "sourceDomain": "cryptopotato.com",
+        "originalImageUrl": "https://cryptopotato.com/wp-content/uploads/2020/05/ripple_v3-1.jpg"
+    },
+    {
+        "_id": "5ede4fb7ef48ea001afe54b1",
+        "hotness": 73686.3526388889,
+        "activityHotness": 0.1,
+        "primaryCategory": "General",
+        "words": 2060,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "5e3844a916c3760019f74c8b",
+                "name": "CREDIT",
+                "slug": "credit",
+                "tradingSymbol": "CREDIT"
+            },
+            {
+                "_id": "5a9b3705a8134644d04a5d85",
+                "name": "Credits",
+                "slug": "credits",
+                "tradingSymbol": "CS"
+            },
+            {
+                "_id": "5b4be006c831fd000fc41c2d",
+                "name": "Record",
+                "slug": "record",
+                "tradingSymbol": "rcd"
+            },
+            {
+                "_id": "5e3844a816c3760019f74be2",
+                "name": "Rally",
+                "slug": "rally",
+                "tradingSymbol": "RALLY"
+            },
+            {
+                "_id": "5afcc60ced3b0e000f40d55c",
+                "name": "KEY",
+                "slug": "key",
+                "tradingSymbol": "key"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45daf",
+                "name": "Bitcoin Cash",
+                "slug": "bitcoin-cash",
+                "tradingSymbol": "BCH"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            }
+        ],
+        "description": "Two-thirds of people who use Coinbase are willing to leave the platform following reports that the U.S. exchange plans to sell user data to two government agencies for $250,000. Cryptocurrency trader and analyst John Rager carried out a poll on Twitter, asking his 73,000 followers: \u201cWould you\u2026",
+        "publishedAt": "2020-06-08T13:30:57.000Z",
+        "title": "66% of Coinbase Users Willing to Leave the Exchange Due to Mounting Privacy Concerns",
+        "url": "https://cryptocontrol.io/r/api/article/5ede4fb7ef48ea001afe54b1?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "59d71c67ef8bf95cc2ab0147",
+            "name": "Bitcoin.com",
+            "url": "https://news.bitcoin.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d71c67ef8bf95cc2ab0147.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede4fb7ef48ea001afe54b1-1591627703476.jpg",
+        "sourceDomain": "news.bitcoin.com",
+        "originalImageUrl": "https://news.bitcoin.com/wp-content/uploads/2020/06/66-of-coinbase-users-willing-to-leave-the-exchange-due-to-mounting-privacy-concerns.jpg"
+    },
+    {
+        "_id": "5edd466cd53ce50019648d95",
+        "hotness": 73686.29750726956,
+        "activityHotness": 3.153062825106217,
+        "primaryCategory": "General",
+        "words": 717,
+        "similarArticles": [
+            {
+                "_id": "5eda84bbcc850700198026e0",
+                "title": "Bitcoin Miners Are Dumping BTC At a Faster Rate Post Halving, But Why?",
+                "publishedAt": "2020-06-05T17:30:31.000Z",
+                "sourceDomain": "newsbtc.com",
+                "url": "https://cryptocontrol.io/r/api/article/5eda84bbcc850700198026e0?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5eda84bbcc850700198026e0-1591379131347.jpg"
+            },
+            {
+                "_id": "5edc7126d56018001ad0b08e",
+                "title": "Struggling Miners Have Little Bitcoin Left To Sell And Its Bullish, Says Top Investor",
+                "publishedAt": "2020-06-06T13:33:43.000Z",
+                "sourceDomain": "zycrypto.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edc7126d56018001ad0b08e?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edc7126d56018001ad0b08e-1591505190148.jpg"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            }
+        ],
+        "description": "On-chain data suggests the post-halving dip could be ending as BTC miners hold on to newly minted coins.\nOn-chain data from blockchain analytics firm CryptoQuant suggest that miners are currently holding on to their mined BTC, a sign that may indicate a continuing recovery for the Bitcoin price\u2026",
+        "publishedAt": "2020-06-07T18:52:00.000Z",
+        "title": "These 2 Bitcoin On-Chain Metrics Suggest the Post-Halving Dip Has Ended",
+        "url": "https://cryptocontrol.io/r/api/article/5edd466cd53ce50019648d95?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "59d70be3ef8bf95cc2aa2b4f",
+            "name": "CoinTelegraph",
+            "url": "https://cointelegraph.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d70be3ef8bf95cc2aa2b4f.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edd466cd53ce50019648d95-1591559788673.jpg",
+        "sourceDomain": "cointelegraph.com",
+        "originalImageUrl": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMjhiM2QyNGQ5MWY3NTU1MjkzN2U3ZWNlZTMxMThjZC5qcGc=.jpg"
+    },
+    {
+        "_id": "5ede3855ef48ea001afda5b9",
+        "hotness": 73686.28417259711,
+        "activityHotness": 0.11570037488096648,
+        "primaryCategory": "General",
+        "words": 451,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45df4",
+                "name": "TRON",
+                "slug": "tron",
+                "tradingSymbol": "TRX"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            },
+            {
+                "_id": "5e3844a816c3760019f74be2",
+                "name": "Rally",
+                "slug": "rally",
+                "tradingSymbol": "RALLY"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "Tron\u2019s TRX cryptocurrency was among the biggest gainers in the last 24 hours, rising by more than 5 percent. The upside move appeared as Justin Sun, the founder of Tron, announced a protocol upgrade that would introduce privacy features to its smart contracts. TRX\u2019s rise also coincided with a\u2026",
+        "publishedAt": "2020-06-08T13:00:39.000Z",
+        "title": "Tron Cryptocurrency Paints Golden Cross as Founder Announces Tron 4.0",
+        "url": "https://cryptocontrol.io/r/api/article/5ede3855ef48ea001afda5b9?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "59d71bd7ef8bf95cc2aaf579",
+            "name": "NewsBTC",
+            "url": "http://www.newsbtc.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d71bd7ef8bf95cc2aaf579.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede3855ef48ea001afda5b9-1591621719277.jpg",
+        "sourceDomain": "newsbtc.com",
+        "originalImageUrl": "https://www.newsbtc.com/wp-content/uploads/2020/06/shutterstock_1087558211.jpg"
+    },
+    {
+        "_id": "5ede4d4eef48ea001afe4b75",
+        "hotness": 73686.28227512412,
+        "activityHotness": 0.10676586484738149,
+        "primaryCategory": "General",
+        "words": 414,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5b4be006c831fd000fc41c2d",
+                "name": "Record",
+                "slug": "record",
+                "tradingSymbol": "rcd"
+            }
+        ],
+        "description": "Record for open interest, and peak trading on the day of the halving",
+        "publishedAt": "2020-06-08T13:03:11.000Z",
+        "title": "CME: bitcoin futures showing strong volumes in May",
+        "url": "https://cryptocontrol.io/r/api/article/5ede4d4eef48ea001afe4b75?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5cfa747b28d54f001058f77e",
+            "name": "The Cryptonomist ",
+            "url": "https://cryptonomist.ch/en/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5cfa747b28d54f001058f77e.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede4d4eef48ea001afe4b75-1591627086293.jpg",
+        "sourceDomain": "en.cryptonomist.ch",
+        "originalImageUrl": "https://en.cryptonomist.ch/wp-content/uploads/2020/06/bitcoin-CME.jpg"
+    },
+    {
+        "_id": "5ede4a42ef48ea001afe31bf",
+        "hotness": 73686.26748688612,
+        "activityHotness": 0.10392207131532814,
+        "primaryCategory": "General",
+        "words": 1348,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db0",
+                "name": "Litecoin",
+                "slug": "litecoin",
+                "tradingSymbol": "LTC"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            }
+        ],
+        "description": "Hi, This is Qadir A.K, Crypto lover, and Research Columnist.\u00a0 Welcome Readers to the next chapter of my writing series, \u2018The Cryptocurrency Breakthrough 2020 \u2013 Synopsis 21\u2019 \u2013 Cryptocurrency Regulations in Vietnam Cryptocurrency arrived in Vietnam in 2009, and the likes for Bitcoin, Ethereum,\u2026",
+        "publishedAt": "2020-06-08T12:58:53.000Z",
+        "title": "Cryptocurrency Regulations in Vietnam",
+        "url": "https://cryptocontrol.io/r/api/article/5ede4a42ef48ea001afe31bf?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5bf00e7e3c4bad0016748067",
+            "name": "Coinpedia",
+            "url": "https://coinpedia.org/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5bf00e7e3c4bad0016748067.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede4a42ef48ea001afe31bf-1591626308570.jpg",
+        "sourceDomain": "coinpedia.org",
+        "originalImageUrl": "https://coinpedia.org/wp-content/uploads/2020/06/Cryptocurrency-Regulations-in-Vietnam.jpg"
+    },
+    {
+        "_id": "5ede4b01ef48ea001afe31e6",
+        "hotness": 73686.26734799724,
+        "activityHotness": 0.10392207131532814,
+        "primaryCategory": "Exchanges",
+        "words": 305,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "Ethereum continues to record strong growth as anticipation builds for the next version of the network, with data from Etherscan revealing today that the number of distinct addresses on the network has surpassed 100 million. The new milestone has come in a little under five years since the network\u2026",
+        "publishedAt": "2020-06-08T12:58:50.000Z",
+        "title": "Number of Distinct Addresses on Ethereum Just Crossed 100 Million",
+        "url": "https://cryptocontrol.io/r/api/article/5ede4b01ef48ea001afe31e6?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5c2cbd2223b00e001013dda7",
+            "name": "CoinfoMania",
+            "url": "https://coinfomania.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5c2cbd2223b00e001013dda7.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede4b01ef48ea001afe31e6-1591626498793.jpg",
+        "sourceDomain": "coinfomania.com",
+        "originalImageUrl": "https://coinfomania.com/wp-content/uploads/Ethereum-eth-1.jpg"
+    },
+    {
+        "_id": "5ede3a2bef48ea001afdbc6b",
+        "hotness": 73686.23048662904,
+        "activityHotness": 0.11655144384775734,
+        "primaryCategory": "General",
+        "words": 457,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5e3844a816c3760019f74be2",
+                "name": "Rally",
+                "slug": "rally",
+                "tradingSymbol": "RALLY"
+            },
+            {
+                "_id": "5afcc60ced3b0e000f40d55c",
+                "name": "KEY",
+                "slug": "key",
+                "tradingSymbol": "key"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5b7ca78b0c38a700190ebdff",
+                "name": "Own",
+                "slug": "own",
+                "tradingSymbol": "CHX"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dda",
+                "name": "ChainLink",
+                "slug": "chainlink",
+                "tradingSymbol": "LINK"
+            },
+            {
+                "_id": "5a1aafdbda3d21115462ee72",
+                "name": "Tezos",
+                "slug": "tezos",
+                "tradingSymbol": "XTZ"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45df4",
+                "name": "TRON",
+                "slug": "tron",
+                "tradingSymbol": "TRX"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dbc",
+                "name": "Cardano",
+                "slug": "cardano",
+                "tradingSymbol": "ADA"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            }
+        ],
+        "description": "Bitcoin adherents are closely watching the fast approaching $9,900 resistance. A break above this early in the week could mean a test of local highs by its end. A move to this level comes just after a retest of the $9,300 support at the end of the weekend. This was a positive sign that the [\u2026]\n",
+        "publishedAt": "2020-06-08T12:41:01.000Z",
+        "title": "Bitcoin Readies For $9,900 Test, Altcoins Trend Turns Bullish",
+        "url": "https://cryptocontrol.io/r/api/article/5ede3a2bef48ea001afdbc6b?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5adc20e7ec0af7be3539d369",
+            "name": "ZyCrypto",
+            "url": "https://zycrypto.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5adc20e7ec0af7be3539d369.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede3a2bef48ea001afdbc6b-1591622187473.jpg",
+        "sourceDomain": "zycrypto.com",
+        "originalImageUrl": "https://zycrypto.com/wp-content/uploads/2020/05/Bitcoin-Bull-Markets-Show-Increasing-Traction-Among-Altcoins.jpg"
+    },
+    {
+        "_id": "5ede30ce847a14001935df75",
+        "hotness": 73686.20207314959,
+        "activityHotness": 0.1336472236621213,
+        "primaryCategory": "General",
+        "words": 591,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "Blockfyre\u2019s co-founder, Simon Dedic, has said that a bull run will return in the crypto space. When that happens, he expects it to propel Bitcoin (BTC) to a price of about $150,000. In a June 4 tweet, he explained that the gains would not impact the whole cryptocurrency sector. However, the tweet\u2026",
+        "publishedAt": "2020-06-08T12:24:38.000Z",
+        "title": "Bitcoin To Reach $150K In Next Bull Run, Analyst Says",
+        "url": "https://cryptocontrol.io/r/api/article/5ede30ce847a14001935df75?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5bacc0ff0c38a700190994a8",
+            "name": "Cryptovibes",
+            "url": "https://www.cryptovibes.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5bacc0ff0c38a700190994a8.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede30ce847a14001935df75-1591619791304.jpg",
+        "sourceDomain": "cryptovibes.com",
+        "originalImageUrl": "https://www.cryptovibes.com/wp-content/uploads/2020/06/Bitcoin-Price-Rising.jpg"
+    },
+    {
+        "_id": "5ede37c5ef48ea001afda589",
+        "hotness": 73686.18007348198,
+        "activityHotness": 0.11484200051182732,
+        "primaryCategory": "General",
+        "words": 538,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5e3844a816c3760019f74be2",
+                "name": "Rally",
+                "slug": "rally",
+                "tradingSymbol": "RALLY"
+            },
+            {
+                "_id": "5a1aafdbda3d21115462ee14",
+                "name": "Change",
+                "slug": "change",
+                "tradingSymbol": "CAG"
+            }
+        ],
+        "description": "Investors remain confident about bitcoin\u2019s long-term prospects despite the cryptocurrency\u2019s struggle to pass $10,000, according to a key on-chain metric.",
+        "publishedAt": "2020-06-08T12:23:29.000Z",
+        "title": "Bitcoin Remains on Hunt for $10K as Holding Sentiment Gains Strength - CoinDesk",
+        "url": "https://cryptocontrol.io/r/api/article/5ede37c5ef48ea001afda589?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "59ce11393a44cf289a9a71f5",
+            "name": "CoinDesk",
+            "url": "http://coindesk.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59ce11393a44cf289a9a71f5.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede37c5ef48ea001afda589-1591621574266.png",
+        "sourceDomain": "coindesk.com",
+        "originalImageUrl": "https://static.coindesk.com/wp-content/uploads/2020/06/btc-chart-jun-8.png"
+    },
+    {
+        "_id": "5ede2d31847a14001935c630",
+        "hotness": 73686.17607413506,
+        "activityHotness": 0.12311117209633866,
+        "primaryCategory": "Mining",
+        "words": 312,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "Illegal cryptocurrency mining facilities in Russia have stolen electricity worth almost 450 million rubles ($6.6 million) over the past three years, according to the state-owned power grid Rosseti.",
+        "publishedAt": "2020-06-08T12:19:04.000Z",
+        "title": "Illegal Bitcoin Mining Cost Russia $6.6 Million in 3 Years",
+        "url": "https://cryptocontrol.io/r/api/article/5ede2d31847a14001935c630?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5b4b5a26c831fd000f6cff77",
+            "name": "Finance Magnates",
+            "url": "https://www.financemagnates.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b4b5a26c831fd000f6cff77.jpg"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede2d31847a14001935c630-1591618868306.jpg",
+        "sourceDomain": "financemagnates.com",
+        "originalImageUrl": "https://www.financemagnates.com/wp-content/uploads/2018/01/Russia-880x400.jpg"
+    },
+    {
+        "_id": "5ede3843ef48ea001afda5aa",
+        "hotness": 73686.16532504847,
+        "activityHotness": 0.11310282624064044,
+        "primaryCategory": "General",
+        "words": 582,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            }
+        ],
+        "description": "Fundamental and technical indicators say a breakout is potentially on the cards for Bitcoin's short term price action",
+        "publishedAt": "2020-06-08T12:18:48.000Z",
+        "title": "Bitcoin gears up for a push above $10,500",
+        "url": "https://cryptocontrol.io/r/api/article/5ede3843ef48ea001afda5aa?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "59d71bc4ef8bf95cc2aaf570",
+            "name": "CoinJournal",
+            "url": "http://coinjournal.net",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d71bc4ef8bf95cc2aaf570.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede3843ef48ea001afda5aa-1591621700192.jpg",
+        "sourceDomain": "coinjournal.net",
+        "originalImageUrl": "https://coinjournal.net/wp-content/uploads/2020/06/04_Chart.jpg"
+    },
+    {
+        "_id": "5ede336aef48ea001afd89a8",
+        "hotness": 73686.13779711263,
+        "activityHotness": 0.11043600153242428,
+        "primaryCategory": "General",
+        "words": 350,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45e12",
+                "name": "ZCoin",
+                "slug": "zcoin",
+                "tradingSymbol": "XZC"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            }
+        ],
+        "description": "One month after announcing it would launch the 14th version of its protocol, privacy-focused cryptocurrency Zcoin (XZC), has finally released Zcoin v14.0.0 to improve the network\u2019s performance.\u00a0 According to an\u00a0announcement made in a blog post today, the system-wide upgrade is a modification of its\u2026",
+        "publishedAt": "2020-06-08T12:09:51.000Z",
+        "title": "Zcoin (XZC) Launches Version 14 to Boost Network Performance",
+        "url": "https://cryptocontrol.io/r/api/article/5ede336aef48ea001afd89a8?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5c2cbd2223b00e001013dda7",
+            "name": "CoinfoMania",
+            "url": "https://coinfomania.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5c2cbd2223b00e001013dda7.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede336aef48ea001afd89a8-1591620460096.jpg",
+        "sourceDomain": "coinfomania.com",
+        "originalImageUrl": "https://coinfomania.com/wp-content/uploads/Zcoin-xzc.jpg"
+    },
+    {
+        "_id": "5ede385def48ea001afda5ba",
+        "hotness": 73686.13673229783,
+        "activityHotness": 0.11043600153242428,
+        "primaryCategory": "Exchanges",
+        "words": 651,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            },
+            {
+                "_id": "5a7b931302ac032bc997820d",
+                "name": "Show",
+                "slug": "show",
+                "tradingSymbol": "SHOW"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45de5",
+                "name": "Status",
+                "slug": "status",
+                "tradingSymbol": "SNT"
+            }
+        ],
+        "description": "In the long push for mainstream acceptance, crypto scores another win with data that shows both Binance and CoinmarketCap rising on Similarweb\u2019s list of top-ranking investment websites. .@Binance and @CoinMarketCap up to number 22 and 23 biggest websites in Finance, Investing. @Blockchain is number\u2026",
+        "publishedAt": "2020-06-08T12:09:28.000Z",
+        "title": "Website Stats For Binance and CoinMarketCap Show Crypto Mainstream Adoption is Booming",
+        "url": "https://cryptocontrol.io/r/api/article/5ede385def48ea001afda5ba?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "59d71bd7ef8bf95cc2aaf579",
+            "name": "NewsBTC",
+            "url": "http://www.newsbtc.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d71bd7ef8bf95cc2aaf579.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede385def48ea001afda5ba-1591621725974.jpg",
+        "sourceDomain": "newsbtc.com",
+        "originalImageUrl": "https://www.newsbtc.com/wp-content/uploads/2020/06/shutterstock_1174794910.jpg"
+    },
+    {
+        "_id": "5ede296d847a140019359cc3",
+        "hotness": 73686.13424538694,
+        "activityHotness": 0.13220834991691133,
+        "primaryCategory": "Analysis",
+        "words": 465,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5a1aafdbda3d21115462ee98",
+                "name": "Macro",
+                "slug": "macro1",
+                "tradingSymbol": "mcr"
+            },
+            {
+                "_id": "5e3844a816c3760019f74be2",
+                "name": "Rally",
+                "slug": "rally",
+                "tradingSymbol": "RALLY"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            }
+        ],
+        "description": "A confluence of technical and fundamental signs are showing that Bitcoin is on the verge of entering into another parabolic bull run, despite recent weakness. Bitcoin Flashes Positive Momentum Signals According to prominent cryptocurrency chartist Nunya Bizniz, Bitcoin in May printed the exact same\u2026",
+        "publishedAt": "2020-06-08T12:00:44.000Z",
+        "title": "Bitcoin Just Flashed the Signal That Marked the Start of a 7,000% Rally",
+        "url": "https://cryptocontrol.io/r/api/article/5ede296d847a140019359cc3?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "59d8e471ef8bf95cc2c16858",
+            "name": "Bitcoinist",
+            "url": "https://bitcoinist.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d8e471ef8bf95cc2c16858.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede296d847a140019359cc3-1591617904583.jpg",
+        "sourceDomain": "bitcoinist.com",
+        "originalImageUrl": "https://bitcoinist.com/wp-content/uploads/2020/06/shutterstock_1723198357-1920x1280.jpg"
+    },
+    {
+        "_id": "5ede42beef48ea001afdf181",
+        "hotness": 73686.10536328763,
+        "activityHotness": 0.10295588022415446,
+        "primaryCategory": "General",
+        "words": 1172,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5a1aafdbda3d21115462edf0",
+                "name": "Ethos",
+                "slug": "ethos",
+                "tradingSymbol": "ethos"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "5bfc89093c4bad0016670af9",
+                "name": "Bitcoin SV",
+                "slug": "bitcoin-sv",
+                "tradingSymbol": "BSV"
+            },
+            {
+                "_id": "5b7ca78b0c38a700190ebdff",
+                "name": "Own",
+                "slug": "own",
+                "tradingSymbol": "CHX"
+            },
+            {
+                "_id": "5b4be006c831fd000fc41c2d",
+                "name": "Record",
+                "slug": "record",
+                "tradingSymbol": "rcd"
+            }
+        ],
+        "description": "It doesn't matter if you want to help the Bitcoin network or if you're simply trying\u2014you\u2019re not a \"node\" unless you're creating blocks. [...]\n",
+        "publishedAt": "2020-06-08T12:00:52.000Z",
+        "title": "Craig Wright: There are no participation trophies in Bitcoin",
+        "url": "https://cryptocontrol.io/r/api/article/5ede42beef48ea001afdf181?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5b4b5666c831fd000f6a9178",
+            "name": "CoinGeek",
+            "url": "https://coingeek.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b4b5666c831fd000f6a9178.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede42beef48ea001afdf181-1591624385077.jpg",
+        "sourceDomain": "coingeek.com",
+        "originalImageUrl": "https://coingeek.com/wp-content/uploads/2020/06/craig-wright-there-are-no-participation-trophies-in-bitcoin..jpg"
+    },
+    {
+        "_id": "5ede2ff0847a14001935dcd6",
+        "hotness": 73686.09967690032,
+        "activityHotness": 0.11310282624064044,
+        "primaryCategory": "General",
+        "words": 545,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5bb406850c38a70019d2bd8a",
+                "name": "Celsius",
+                "slug": "celsius",
+                "tradingSymbol": "CEL"
+            }
+        ],
+        "description": "After a brief dip yesterday, Bitcoin fought back to emerge from the weekend above $9,700. The benchmark crypto dipped 2% in just a few hours to go below $9,470 for the first time since June 1. However, it bounced back and was trading at $9,720 at the time of press. The $9,400 level has become [\u2026]\n",
+        "publishedAt": "2020-06-08T11:55:10.000Z",
+        "title": "Cryptocurrency News Roundup for June 8, 2020",
+        "url": "https://cryptocontrol.io/r/api/article/5ede2ff0847a14001935dcd6?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5b964b640c38a70019787e71",
+            "name": "BeInCrypto",
+            "url": "https://beincrypto.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b964b640c38a70019787e71.jpg"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede2ff0847a14001935dcd6-1591619570495.jpg",
+        "sourceDomain": "beincrypto.com",
+        "originalImageUrl": "https://s32659.pcdn.co/wp-content/uploads/2020/03/bic_crypto_news_roundup.jpg.optimal.jpg"
+    },
+    {
+        "_id": "5ede3411ef48ea001afd89ba",
+        "hotness": 73686.08917332518,
+        "activityHotness": 0.10861776962410524,
+        "primaryCategory": "Exchanges",
+        "words": 846,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "Private currency boards, as alternatives to central banks, might become a reality - bringing greater stability and economic freedom, according to Steve H. Hanke, a Professor of Applied Economics at the Johns Hopkins University, a prominent expert on hyperinflation, and a major currency board\u2026",
+        "publishedAt": "2020-06-08T11:53:00.000Z",
+        "title": "This Alternative to Central Banks Is Better For Free Societies - Expert",
+        "url": "https://cryptocontrol.io/r/api/article/5ede3411ef48ea001afd89ba?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5c8fbb44a4410000111f614b",
+            "name": "CryptoNews",
+            "url": "https://cryptonews.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5c8fbb44a4410000111f614b.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede3411ef48ea001afd89ba-1591620626300.jpg",
+        "sourceDomain": "cryptonews.com",
+        "originalImageUrl": "https://cimg.co/w/articles/0/5ed/e276c5ea81.jpg"
+    },
+    {
+        "_id": "5ede288b847a140019359c85",
+        "hotness": 73686.06817533384,
+        "activityHotness": 0.11484200051182732,
+        "primaryCategory": "General",
+        "words": 1198,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5afcc60ced3b0e000f40d55c",
+                "name": "KEY",
+                "slug": "key",
+                "tradingSymbol": "key"
+            },
+            {
+                "_id": "5b4be006c831fd000fc41c2d",
+                "name": "Record",
+                "slug": "record",
+                "tradingSymbol": "rcd"
+            },
+            {
+                "_id": "5b590f068cb221000fcf9eb5",
+                "name": "View",
+                "slug": "view",
+                "tradingSymbol": "VIEW"
+            }
+        ],
+        "description": "Wall Street doesn't think rising inflation is likely right now \u2013 does that remove one of the reasons to invest in bitcoin?\n",
+        "publishedAt": "2020-06-08T11:43:12.000Z",
+        "title": "First Mover: As Bitcoiners Eye Inflation Boost, Wall Street Sees Barely Any for Five Years",
+        "url": "https://cryptocontrol.io/r/api/article/5ede288b847a140019359c85?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "59ce11393a44cf289a9a71f5",
+            "name": "CoinDesk",
+            "url": "http://coindesk.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59ce11393a44cf289a9a71f5.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede288b847a140019359c85-1591617676789.jpg",
+        "sourceDomain": "coindesk.com",
+        "originalImageUrl": "https://static.coindesk.com/wp-content/uploads/2020/06/shutterstock_617959385.jpg"
+    },
+    {
+        "_id": "5ede28fc847a140019359ca8",
+        "hotness": 73685.99758400753,
+        "activityHotness": 0.11823215567939548,
+        "primaryCategory": "Analysis",
+        "words": 501,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "Bitcoin hashrate jumped 23 percent since May 26, signaling more miners are resuming operations on the cryptocurrency\u2019s blockchain network. The rally also continued as Bitcoin\u2019s mining difficulty dropped by over 9 percent on June 4. The rising hashrate indicates a slowdown in miner capitulation,\u2026",
+        "publishedAt": "2020-06-08T11:16:34.000Z",
+        "title": "Rising Hashrate Signals End of Bitcoin Capitulation; Price Eyeing $10K-Retest",
+        "url": "https://cryptocontrol.io/r/api/article/5ede28fc847a140019359ca8?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "59d71bd7ef8bf95cc2aaf579",
+            "name": "NewsBTC",
+            "url": "http://www.newsbtc.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d71bd7ef8bf95cc2aaf579.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede28fc847a140019359ca8-1591617789572.jpg",
+        "sourceDomain": "newsbtc.com",
+        "originalImageUrl": "https://www.newsbtc.com/wp-content/uploads/2020/06/shutterstock_772693789.jpg"
+    },
+    {
+        "_id": "5ede1c207026f9001af9751c",
+        "hotness": 73685.98851284065,
+        "activityHotness": 0.13220834991691133,
+        "primaryCategory": "General",
+        "words": 991,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db0",
+                "name": "Litecoin",
+                "slug": "litecoin",
+                "tradingSymbol": "LTC"
+            },
+            {
+                "_id": "5afcc60ced3b0e000f40d55c",
+                "name": "KEY",
+                "slug": "key",
+                "tradingSymbol": "key"
+            },
+            {
+                "_id": "5b7761830c38a70019283e1b",
+                "name": "MCO",
+                "slug": "mco",
+                "tradingSymbol": "mco"
+            },
+            {
+                "_id": "5e3844a916c3760019f74c8b",
+                "name": "CREDIT",
+                "slug": "credit",
+                "tradingSymbol": "CREDIT"
+            },
+            {
+                "_id": "5d86b98226ceed001a62bb6d",
+                "name": "Swipe",
+                "slug": "swipe",
+                "tradingSymbol": "SXP"
+            },
+            {
+                "_id": "5b7ca78b0c38a700190ebdff",
+                "name": "Own",
+                "slug": "own",
+                "tradingSymbol": "CHX"
+            },
+            {
+                "_id": "5e3844a916c3760019f74d48",
+                "name": "Safe",
+                "slug": "safe",
+                "tradingSymbol": "SAFE"
+            }
+        ],
+        "description": "Whether you\u2019re new to Bitcoin and cryptocurrency, or a seasoned veteran, there is a lot of dynamic in the world right now to make you start thinking seriously about where you\u2019re placing your investments these days. Nobody could have predicted that a $10,000 investment in oil in April would translate\u2026",
+        "publishedAt": "2020-06-08T11:08:16.177Z",
+        "title": "9742 Emerges as Key BTC/USD Short-Term Focus: Sally Ho's Technical Analysis 7 June 2020 BTC",
+        "url": "https://cryptocontrol.io/r/api/article/5ede1c207026f9001af9751c?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5b04f195311c75000f476271",
+            "name": "Crypto Daily",
+            "url": "https://cryptodaily.co.uk",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b04f195311c75000f476271.jpg"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede1c207026f9001af9751c-1591614496274.jpg",
+        "sourceDomain": "cryptodaily.co.uk",
+        "originalImageUrl": "https://cryptodailycdn.ams3.digitaloceanspaces.com/uploads/featured-images/Generic/finance-people-light.jpg"
+    },
+    {
+        "_id": "5ede25c6847a140019358c26",
+        "hotness": 73685.9817958315,
+        "activityHotness": 0.11133286853070033,
+        "primaryCategory": "Analysis",
+        "words": 617,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45df4",
+                "name": "TRON",
+                "slug": "tron",
+                "tradingSymbol": "TRX"
+            },
+            {
+                "_id": "5afcc60ced3b0e000f40d55c",
+                "name": "KEY",
+                "slug": "key",
+                "tradingSymbol": "key"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            },
+            {
+                "_id": "5b0600845d27780010d289f3",
+                "name": "RED",
+                "slug": "red",
+                "tradingSymbol": "RED"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "Tron reached $0.0185 ~ 192 SAT after gaining almost 30% in a month. It may reclaim yearly high if buyers continue to show commitment in the mid-term. The increase follows Justin Sun\u2019s announcement about the upcoming TRON 4.0 launch in July. TRX/USD: Tron Faces March\u2019s Resistance Key Resistance\u2026",
+        "publishedAt": "2020-06-08T11:13:22.000Z",
+        "title": "TRON At 3-Month High As Justin Sun Announces TRON 4.0 Launch Date: TRX Price Analysis",
+        "url": "https://cryptocontrol.io/r/api/article/5ede25c6847a140019358c26?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5ce406880175730010f47558",
+            "name": "Crypto Potato",
+            "url": "https://cryptopotato.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5ce406880175730010f47558.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede25c6847a140019358c26-1591616966247.jpg",
+        "sourceDomain": "cryptopotato.com",
+        "originalImageUrl": "https://cryptopotato.com/wp-content/uploads/2020/02/bitmex-6-min.jpg"
+    },
+    {
+        "_id": "5ede28b1847a140019359c94",
+        "hotness": 73685.96599155708,
+        "activityHotness": 0.11043600153242428,
+        "primaryCategory": "Exchanges",
+        "words": 296,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "Max Keiser called out Warren Buffett over his recent losses in the airline sector, claiming that Robinhood users had stolen his money and created wealth for Generation Z.\nBroadcaster and renowned Bitcoin ( BTC ) bull Max Keiser has taken a knock on veteran investor Warren Buffett in a tweet posted\u2026",
+        "publishedAt": "2020-06-08T11:08:00.000Z",
+        "title": "Robinhood Users Steal From the Rich to Fill Their Bitcoin Bags: Max Keiser",
+        "url": "https://cryptocontrol.io/r/api/article/5ede28b1847a140019359c94?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "59d70be3ef8bf95cc2aa2b4f",
+            "name": "CoinTelegraph",
+            "url": "https://cointelegraph.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d70be3ef8bf95cc2aa2b4f.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede28b1847a140019359c94-1591617715602.jpg",
+        "sourceDomain": "cointelegraph.com",
+        "originalImageUrl": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kOTViN2Y1YjljMDI1NTFjNWU4ZDgzY2NiMThhNjAyOC5qcGc=.jpg"
+    },
+    {
+        "_id": "5ede1db17026f9001af9833d",
+        "hotness": 73685.9487046781,
+        "activityHotness": 0.11310282624064044,
+        "primaryCategory": "General",
+        "words": 436,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "The Grayscale Bitcoin Trust has seen massive adoption rates in recent times, as it provides retail investors with a way to add Bitcoin exposure to their portfolio through a traditional brokerage account.\n",
+        "publishedAt": "2020-06-08T11:00:49.000Z",
+        "title": "Massive Grayscale Bitcoin Trust (GBTC) premium points to surge in long-term \u201chodlers\u201d",
+        "url": "https://cryptocontrol.io/r/api/article/5ede1db17026f9001af9833d?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5b4b590dc831fd000f6c4c66",
+            "name": "CryptoSlate",
+            "url": "https://cryptoslate.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b4b590dc831fd000f6c4c66.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ede1db17026f9001af9833d-1591614898358.jpg",
+        "sourceDomain": "cryptoslate.com",
+        "originalImageUrl": "https://cryptoslate.com/wp-content/uploads/2020/06/bitcoin-hold.jpg"
+    },
+    {
+        "_id": "5edd1a753a68e60019185244",
+        "hotness": 73685.90627712898,
+        "activityHotness": 3.1593326845277736,
+        "primaryCategory": "General",
+        "words": 360,
+        "similarArticles": [
+            {
+                "_id": "5ed9a61e025d0c0019526f48",
+                "title": "Data Analyst: There Continues to Be Mass Bitcoin Accumulation By Institutional Players",
+                "publishedAt": "2020-06-05T01:00:33.000Z",
+                "sourceDomain": "bitcoinist.com",
+                "url": "https://cryptocontrol.io/r/api/article/5ed9a61e025d0c0019526f48?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5ed9a61e025d0c0019526f48-1591322142441.jpg"
+            },
+            {
+                "_id": "5edcc963687b570019288f39",
+                "title": "A Key Indicator Shows the Bitcoin Bear Market Ended Just Days Ago",
+                "publishedAt": "2020-06-07T10:00:12.000Z",
+                "sourceDomain": "newsbtc.com",
+                "url": "https://cryptocontrol.io/r/api/article/5edcc963687b570019288f39?ref=5e3a17b7085898001a82471b",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edcc963687b570019288f39-1591527779783.jpg"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5afcc60ced3b0e000f40d55c",
+                "name": "KEY",
+                "slug": "key",
+                "tradingSymbol": "key"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74ee0",
+                "name": "Digital Gold",
+                "slug": "digital-gold",
+                "tradingSymbol": "GOLD"
+            },
+            {
+                "_id": "5e3844a816c3760019f74be2",
+                "name": "Rally",
+                "slug": "rally",
+                "tradingSymbol": "RALLY"
+            }
+        ],
+        "description": "Bitcoin tried many times to overcome the key resistance level at $10,000 but failed every time. Every time, the coin reached $10k, the crypto community cheered for crossing the most psychological level, and in the next moment, it again went downward. But this time, it is not going to happen as data\u2026",
+        "publishedAt": "2020-06-07T16:28:54.000Z",
+        "title": "Bitcoin Trend: Bitcoin Still Under $10k Psychological Level - Indicator Shows Bear Trend is...",
+        "url": "https://cryptocontrol.io/r/api/article/5edd1a753a68e60019185244?ref=5e3a17b7085898001a82471b",
+        "source": {
+            "_id": "5d79ee2e26ceed001aa0514b",
+            "name": "Tokenhell",
+            "url": "https://tokenhell.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5d79ee2e26ceed001aa0514b.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5edd1a753a68e60019185244-1591548537799.png",
+        "sourceDomain": "tokenhell.com",
+        "originalImageUrl": "https://tokenhell.com/wp-content/uploads/bitcoin-13-1.png"
+    }
+]
